@@ -6,5 +6,5 @@ Berikut merupakan Link Projek Akhir mata kuliah Machine Learning:
 
 Para tugas ini kami menggunakan algoritma:
 1. Decision Tree (klasifikasi kata)
-2. Fasttext (mencari simliarity kata)
+2. Fasttext (mencari similarity kata)
 3. LabelEncoder (encoding kata ke angka)
